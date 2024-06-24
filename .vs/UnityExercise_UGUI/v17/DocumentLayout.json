@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{245A8112-F676-E313-127E-AFD9B53DBDDB}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\assets\\scripts\\manager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245A8112-F676-E313-127E-AFD9B53DBDDB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245A8112-F676-E313-127E-AFD9B53DBDDB}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\assets\\scripts\\panel\\registerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245A8112-F676-E313-127E-AFD9B53DBDDB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\panel\\registerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245A8112-F676-E313-127E-AFD9B53DBDDB}|Assembly-CSharp.csproj|e:\\unity3d\\unityexercises\\unityexercise_ugui\\assets\\scripts\\panel\\loginbkpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245A8112-F676-E313-127E-AFD9B53DBDDB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\panel\\loginbkpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245A8112-F676-E313-127E-AFD9B53DBDDB}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\assets\\scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245A8112-F676-E313-127E-AFD9B53DBDDB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245A8112-F676-E313-127E-AFD9B53DBDDB}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\assets\\scripts\\item\\serverleftitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245A8112-F676-E313-127E-AFD9B53DBDDB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item\\serverleftitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245A8112-F676-E313-127E-AFD9B53DBDDB}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\assets\\scripts\\panel\\serverpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245A8112-F676-E313-127E-AFD9B53DBDDB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\panel\\serverpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245A8112-F676-E313-127E-AFD9B53DBDDB}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\assets\\scripts\\panel\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245A8112-F676-E313-127E-AFD9B53DBDDB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\panel\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245A8112-F676-E313-127E-AFD9B53DBDDB}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\assets\\scripts\\manager\\loginmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245A8112-F676-E313-127E-AFD9B53DBDDB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\loginmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245A8112-F676-E313-127E-AFD9B53DBDDB}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\assets\\scripts\\data\\logindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245A8112-F676-E313-127E-AFD9B53DBDDB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\logindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245A8112-F676-E313-127E-AFD9B53DBDDB}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\assets\\scripts\\panel\\serverchoosepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245A8112-F676-E313-127E-AFD9B53DBDDB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\panel\\serverchoosepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245A8112-F676-E313-127E-AFD9B53DBDDB}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\assets\\scripts\\item\\serverrightitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245A8112-F676-E313-127E-AFD9B53DBDDB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item\\serverrightitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\Assets\\Scripts\\Manager\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\UIManager.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\Assets\\Scripts\\Manager\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\UIManager.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:47:20.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\Assets\\Scripts\\Main.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Main.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\Assets\\Scripts\\Main.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:38:05.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginBkPanel.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\Assets\\Scripts\\Panel\\LoginBkPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Panel\\LoginBkPanel.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\Assets\\Scripts\\Panel\\LoginBkPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Panel\\LoginBkPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:37:40.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterPanel.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\Assets\\Scripts\\Panel\\RegisterPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Panel\\RegisterPanel.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\Assets\\Scripts\\Panel\\RegisterPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Panel\\RegisterPanel.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvxwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:30:12.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginManager.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\Assets\\Scripts\\Manager\\LoginManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\LoginManager.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\Assets\\Scripts\\Manager\\LoginManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\LoginManager.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvyIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:29:03.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginData.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\Assets\\Scripts\\Data\\LoginData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\LoginData.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\Assets\\Scripts\\Data\\LoginData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\LoginData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:28:01.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPanel.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\Assets\\Scripts\\Panel\\LoginPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Panel\\LoginPanel.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\Assets\\Scripts\\Panel\\LoginPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Panel\\LoginPanel.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAxwHMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:26:13.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServerPanel.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\Assets\\Scripts\\Panel\\ServerPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Panel\\ServerPanel.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\Assets\\Scripts\\Panel\\ServerPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Panel\\ServerPanel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAxwB4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:20:11.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServerLeftItem.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\Assets\\Scripts\\Item\\ServerLeftItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Item\\ServerLeftItem.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\Assets\\Scripts\\Item\\ServerLeftItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Item\\ServerLeftItem.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:13:39.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServerChoosePanel.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\Assets\\Scripts\\Panel\\ServerChoosePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Panel\\ServerChoosePanel.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\Assets\\Scripts\\Panel\\ServerChoosePanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Panel\\ServerChoosePanel.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:12:09.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServerRightItem.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\Assets\\Scripts\\Item\\ServerRightItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Item\\ServerRightItem.cs",
+              "ToolTip": "E:\\Unity3D\\UnityExercises\\UnityExercise_UGUI\\Assets\\Scripts\\Item\\ServerRightItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Item\\ServerRightItem.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAtwBIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:29:50.673Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
